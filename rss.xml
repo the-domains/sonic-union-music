@@ -4,7 +4,7 @@
         <description><![CDATA[Home of DJ / Producer Sonic Union]]></description>
         <link>https://thegrid.ai/sonic-union-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 17:00:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 17:04:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sonic-union-music/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Test]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/sonic-union-music/first-test/index.html</link>
             <guid isPermaLink="false">20316b1d-84da-4ed4-b1d7-ef9d1ad3daf7</guid>
             <pubDate>Tue, 08 Dec 2015 17:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>More Testing of The Grid</p>]]></description>
+            <link>https://thegrid.ai/sonic-union-music/4c39cd33-868b-459d-8811-dfab9a63d589/index.html</link>
+            <guid isPermaLink="false">4c39cd33-868b-459d-8811-dfab9a63d589</guid>
+            <pubDate>Tue, 08 Dec 2015 17:04:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
