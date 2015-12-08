@@ -1,0 +1,28 @@
+name: Sonic Union Music
+favicon: null
+layout_spectrum: 0.995052443118766
+typography_spectrum: 0.4242600949946791
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6958388665225357
+  lightness: 0.04361248109489679
+  saturation: 0.07258947263471782
+  rhythmicContrast: 0.3772320488933474
+purpose: []
