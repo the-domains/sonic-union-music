@@ -1,7 +1,7 @@
 name: Sonic Union Music
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.40108
+typography_spectrum: 0.34389
 title: Home of DJ / Producer Sonic Union
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#b2b2b2'
+    - '#4c4c4c'
+    - '#656565'
+    - '#fefefe'
+    - '#cbcbcb'
   brandStrength: 0.6958388665225357
   lightness: 0.04361248109489679
   saturation: 0.375
