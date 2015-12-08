@@ -1,7 +1,7 @@
 name: Sonic Union Music
 favicon: null
-layout_spectrum: 0.995052443118766
-typography_spectrum: 0.4242600949946791
+layout_spectrum: 1
+typography_spectrum: 0.40108
 cta:
   domain: null
   bucket: null
